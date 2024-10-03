@@ -61,8 +61,8 @@ body{
     font-weight: 350;
     font-size: 16px;
     position:absolute;
-    top: 22%;
-    right: 13%;
+    top: 30%;
+    right: 17%;
 }
 #nav h1::before{
     content:  "model management";
@@ -71,8 +71,8 @@ body{
     font-size: 13px;
     letter-spacing: 0.1px;
     position:absolute;
-    bottom: 22%;
-    right: 18%;
+    bottom: 10%;
+    right: 19%;
 }
 #nav h2:nth-last-child(2){
     width: 29%;
